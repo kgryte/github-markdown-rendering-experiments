@@ -8,6 +8,9 @@
 	<div>
 		foo: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bar baz bop bap
 	</div>
+	<div>
+		bidazzle: &nbsp;&nbsp;&nbsp;bar baz bop bap
+	</div>
 </div>
 
 <dl>
