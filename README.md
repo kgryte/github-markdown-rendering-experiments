@@ -18,10 +18,10 @@
 		biduzzle:<em hidden>...</em>bar baz bop bap
 	</div>
 	<div>
-		foo:&#x2005;&#x2005;&#x2005;&#x2005;&#x2005;&#x2005;&#x2005;&#x2005;&#x2005;&#x2005;&#x2005;bar baz bop bap
+		foo:&#x2003;&#x2003;&#x2003;&#x2003;&#x2003;&#x2003;&#x2003;&#x2003;&#x2003;&#x2003;&#x2003;bar baz bop bap
 	</div>
 	<div>
-		bidazzle:&#x2005;&#x2005;&#x2005;bar baz bop bap
+		bidazzle:&#x2003;&#x2003;&#x2003;bar baz bop bap
 	</div>
 </div>
 
