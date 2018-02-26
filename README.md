@@ -2,7 +2,7 @@
 
 > Investigating the limits of HTML and CSS in GitHub rendered Markdown.
 
-<div style="align:center">
-	<div style="color:red">Beep</div>
-	<div style="color:blue">Boop</div>
+<div width="100%">
+	<div width="30%" align="center">Beep</div>
+	<div width="70%">Boop</div>
 </div>
