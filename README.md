@@ -6,10 +6,10 @@
 	<div align="center">Beep</div>
 	<div dir="rtl">Boop</div>
 	<div>
-		foo: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bar baz bop bap
+		foo:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bar baz bop bap
 	</div>
 	<div>
-		bidazzle: &nbsp;&nbsp;&nbsp;bar baz bop bap
+		bidazzle:&nbsp;&nbsp;&nbsp;bar baz bop bap
 	</div>
 </div>
 
