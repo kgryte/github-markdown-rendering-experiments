@@ -8,7 +8,7 @@
 </div>
 
 <dl>
-	<dt>Beep<dt>
+	<dt>Beep</dt>
 	<dd>Beep</dd>
 
 	<dt>Boop</dt>
