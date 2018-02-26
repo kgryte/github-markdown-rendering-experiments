@@ -9,13 +9,13 @@
 		foo:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bar baz bop bap
 	</div>
 	<div>
-		foo:<span hidden=true>........</span>bar baz bop bap
+		foo:<span hidden>........</span>bar baz bop bap
 	</div>
 	<div>
 		bidazzle:&nbsp;&nbsp;&nbsp;bar baz bop bap
 	</div>
 	<div>
-		biduzzle:<span hidden=true>...</span>bar baz bop bap
+		biduzzle:<span hidden>...</span>bar baz bop bap
 	</div>
 </div>
 
