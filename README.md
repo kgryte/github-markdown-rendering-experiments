@@ -118,7 +118,7 @@ Another HTML table:
 		</tr>
 		<tr>
 			<td width="200px" align="left"><a href="https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/@stdlib/string/from-code-point">fromCodePoint()</a></td>
-			<tdalign="left">create a string from a sequence of Unicode code points</td>
+			<td align="left">create a string from a sequence of Unicode code points</td>
 		</tr>
 		<tr>
 			<td width="200px" align="left"><a href="https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/@stdlib/string/from-code-point">fromCodePoint</a></td>
