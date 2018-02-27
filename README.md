@@ -2,14 +2,16 @@
 
 > Investigating the limits of HTML and CSS in GitHub rendered Markdown.
 
-<div>
-	HTML attributes:
+HTML attributes:
 
+<div>
 	<div align="center">Beep</div>
 	<div dir="rtl">Boop</div>
+</div>
 
-	Manual spacing:
+Manual spacing:
 
+<div>
 	<div>
 		foo:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bar baz bop bap
 	</div>
@@ -43,6 +45,14 @@ HTML table:
 
 <table>
 	<tbody>
+		<tr>
+			<td align="left"><a href="https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/@stdlib/string/from-code-point">fromCodePoint( pt1[, pt2[, pt3[, ...]]] )</a></td>
+			<td align="left">create a string from a sequence of Unicode code points</td>
+		</tr>
+		<tr>
+			<td align="left"><a href="https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/@stdlib/string/from-code-point">fromCodePoint( pt1[, pt2[, pt3[, ...]]] )</a></td>
+			<td align="left">create a string from a sequence of Unicode code points</td>
+		</tr>
 		<tr>
 			<td align="left"><a href="https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/@stdlib/string/from-code-point">fromCodePoint( pt1[, pt2[, pt3[, ...]]] )</a></td>
 			<td align="left">create a string from a sequence of Unicode code points</td>
