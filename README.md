@@ -81,6 +81,29 @@ Another HTML table:
 	</tbody>
 </table>
 
+Another HTML table:
+
+<table width="100%">
+	<tbody>
+		<tr>
+			<td width="30%" align="left"><a href="https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/@stdlib/string/from-code-point"><code>fromCodePoint()</code></a></td>
+			<td width="70%" align="left">create a string from a sequence of Unicode code points</td>
+		</tr>
+		<tr>
+			<td width="30%" align="left"><a href="https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/@stdlib/string/from-code-point"><code>fromCodePoint</code></a></td>
+			<td width="70%" align="left">create a string from a sequence of Unicode code points</td>
+		</tr>
+		<tr>
+			<td width="30%" align="left"><a href="https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/@stdlib/string/from-code-point">fromCodePoint()</a></td>
+			<td width="70%" align="left">create a string from a sequence of Unicode code points</td>
+		</tr>
+		<tr>
+			<td width="30%" align="left"><a href="https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/@stdlib/string/from-code-point">fromCodePoint</a></td>
+			<td width="70%" align="left">create a string from a sequence of Unicode code points</td>
+		</tr>
+	</tbody>
+</table>
+
 Markdown table:
 
 | function | description |
