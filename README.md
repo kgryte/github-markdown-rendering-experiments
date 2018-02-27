@@ -3,8 +3,13 @@
 > Investigating the limits of HTML and CSS in GitHub rendered Markdown.
 
 <div>
+	HTML attributes:
+
 	<div align="center">Beep</div>
 	<div dir="rtl">Boop</div>
+
+	Manual spacing:
+
 	<div>
 		foo:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bar baz bop bap
 	</div>
@@ -25,9 +30,26 @@
 	</div>
 </div>
 
+Definition list:
+
 <dl>
 	<dt>Beep</dt>
 	<dd>Beep</dd>
 	<dt>Boop</dt>
 	<dd>Boop</dd>
 </dl>
+
+HTML table:
+
+<table>
+	<tbody>
+		<tr>
+			<td align="left"><a href="https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/@stdlib/string/from-code-point">fromCodePoint( pt1[, pt2[, pt3[, ...]]] )</a></td>
+			<td align="left">create a string from a sequence of Unicode code points</td>
+		</tr>
+	</tbody>
+</table>
+
+Markdown table:
+
+| [fromCodePoint( pt1\[, pt2\[, pt3\[, ...]]] )](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/@stdlib/string/from-code-point) | create a string from a sequence of Unicode code points |
