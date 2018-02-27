@@ -84,20 +84,20 @@ Another HTML table:
 Another HTML table:
 
 <table width="100%">
-	<tbody>
-		<tr>
+	<tbody width="100%">
+		<tr width="100%">
 			<td width="30%" align="left"><a href="https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/@stdlib/string/from-code-point"><code>fromCodePoint()</code></a></td>
 			<td width="70%" align="left">create a string from a sequence of Unicode code points</td>
 		</tr>
-		<tr>
+		<tr width="100%">
 			<td width="30%" align="left"><a href="https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/@stdlib/string/from-code-point"><code>fromCodePoint</code></a></td>
 			<td width="70%" align="left">create a string from a sequence of Unicode code points</td>
 		</tr>
-		<tr>
+		<tr width="100%">
 			<td width="30%" align="left"><a href="https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/@stdlib/string/from-code-point">fromCodePoint()</a></td>
 			<td width="70%" align="left">create a string from a sequence of Unicode code points</td>
 		</tr>
-		<tr>
+		<tr width="100%">
 			<td width="30%" align="left"><a href="https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/@stdlib/string/from-code-point">fromCodePoint</a></td>
 			<td width="70%" align="left">create a string from a sequence of Unicode code points</td>
 		</tr>
