@@ -70,4 +70,8 @@ Markdown table:
 | [`fromCodePoint( pt1[, pt2[, pt3[, ...]]] )`](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/@stdlib/string/from-code-point) | create a string from a sequence of Unicode code points |
 | [`fromCodePoint( pt1[, pt2[, pt3[, ...]]] )`](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/@stdlib/string/from-code-point) | create a string from a sequence of Unicode code points |
 | [fromCodePoint](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/@stdlib/string/from-code-point)( pt1\[, pt2\[, pt3\[, ...]]] ) | create a string from a sequence of Unicode code points |
+| [fromCodePoint](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/@stdlib/string/from-code-point)() | create a string from a sequence of Unicode code points |
+| [fromCodePoint](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/@stdlib/string/from-code-point) | create a string from a sequence of Unicode code points |
 | [`fromCodePoint()`](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/@stdlib/string/from-code-point) | create a string from a sequence of Unicode code points |
+| [`fromCodePoint`](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/@stdlib/string/from-code-point) | create a string from a sequence of Unicode code points |
+| [fromCodePoint](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/@stdlib/string/from-code-point) | create a string from a sequence of Unicode code points |
