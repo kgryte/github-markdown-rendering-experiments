@@ -30,6 +30,8 @@ Manual spacing:
 	<div>
 		bidazzle:&#x2003;&#x2003;&#x2003;bar baz bop bap
 	</div>
+	<br>
+	<br>
 </div>
 
 Definition list:
@@ -63,3 +65,5 @@ HTML table:
 Markdown table:
 
 | [fromCodePoint( pt1\[, pt2\[, pt3\[, ...]]] )](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/@stdlib/string/from-code-point) | create a string from a sequence of Unicode code points |
+| [`fromCodePoint( pt1\[, pt2\[, pt3\[, ...]]] )`](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/@stdlib/string/from-code-point) | create a string from a sequence of Unicode code points |
+| [`fromCodePoint( pt1\[, pt2\[, pt3\[, ...]]] )`](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/@stdlib/string/from-code-point) | create a string from a sequence of Unicode code points |
